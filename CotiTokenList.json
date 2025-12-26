@@ -1,0 +1,79 @@
+{
+  "name": "coti-mainnet-token-list",
+  "timestamp": "2025-12-26T00:00:00Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "keywords": ["coti","coti-mainnet","tokenlist"],
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xddb3422497e61e13543bea06989c0789117555c5",
+      "name": "COTI",
+      "symbol": "COTI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12368/thumb/coti.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xaf2ca40d3fc4459436d11b94d21fa4b8a89fb51d",
+      "name": "COTI Governance Token",
+      "symbol": "gCOTI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24024/thumb/gcoti.png"
+    },
+    {
+      "chainId": 2632500,
+      "address": "0xfa1087e3bbc4ce7f57edacbcd2d303bfefacce45",
+      "name": "COTI (Native Mainnet)",
+      "symbol": "COTI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12368/thumb/coti.png"
+    },
+    {
+      "chainId": 2632500,
+      "address": "0x61bf10a1a27b2d99de0a59a06200a62ed579d685",
+      "name": "gCOTI (Native Mainnet)",
+      "symbol": "gCOTI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24024/thumb/gcoti.png"
+    },
+    {
+      "chainId": 2632500,
+      "address": "0xf1Feebc4376c68B7003450ae66343Ae59AB37D3C",
+      "name": "USDC.e (COTI)",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png"
+    },
+    {
+      "chainId": 2632500,
+      "address": "0x639aCc80569c5FC83c6FBf2319A6Cc38bBfe26d1",
+      "name": "Wrapped ETH (COTI)",
+      "symbol": "wETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/279/thumb/ethereum.png"
+    },
+    {
+      "chainId": 2632500,
+      "address": "0x8C39B1fD0e6260fdf20652Fc436d25026832bfEA",
+      "name": "Wrapped BTC (COTI)",
+      "symbol": "wBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/7598/thumb/wrapped_bitcoin_wbtc.png"
+    },
+    {
+      "chainId": 2632500,
+      "address": "0x659AD6d1F7353Df13Dec552cc05c9c15AfdD04e8",
+      "name": "Pengo",
+      "symbol": "PENGO",
+      "decimals": 18
+    },
+    {
+      "chainId": 2632500,
+      "address": "0xA045792D58CfD6F710d2D2EF20D0C58Cc6FbB3F2",
+      "name": "BigMoney",
+      "symbol": "BIGM",
+      "decimals": 18
+    }
+  ]
+}
+
