@@ -7,10 +7,10 @@
     {
       "chainId": 1,
       "address": "0xddb3422497e61e13543bea06989c0789117555c5",
-      "name": "COTI",
+      "name": "COTI Token",
       "symbol": "COTI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12368/thumb/coti.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/2962/standard/Coti.png"
     },
     {
       "chainId": 1,
@@ -18,20 +18,12 @@
       "name": "COTI Governance Token",
       "symbol": "gCOTI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24024/thumb/gcoti.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/32930/standard/gCOTI_logo_icon200x200.png"
     },
     {
       "chainId": 2632500,
-      "address": "0xfa1087e3bbc4ce7f57edacbcd2d303bfefacce45",
-      "name": "COTI (Native Mainnet)",
-      "symbol": "COTI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12368/thumb/coti.png"
-    },
-    {
-      "chainId": 2632500,
-      "address": "0x61bf10a1a27b2d99de0a59a06200a62ed579d685",
-      "name": "gCOTI (Native Mainnet)",
+      "address": "0x7637C7838EC4Ec6b85080F28A678F8E234bB83D1",
+      "name": "COTI Treasury Governance Token (Coti Mainnet)",
       "symbol": "gCOTI",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/24024/thumb/gcoti.png"
@@ -39,7 +31,7 @@
     {
       "chainId": 2632500,
       "address": "0xf1Feebc4376c68B7003450ae66343Ae59AB37D3C",
-      "name": "USDC.e (COTI)",
+      "name": "Bridged USDC (COTI) (USDC.e)",
       "symbol": "USDC.e",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png"
@@ -59,20 +51,6 @@
       "symbol": "wBTC",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/7598/thumb/wrapped_bitcoin_wbtc.png"
-    },
-    {
-      "chainId": 2632500,
-      "address": "0x659AD6d1F7353Df13Dec552cc05c9c15AfdD04e8",
-      "name": "Pengo",
-      "symbol": "PENGO",
-      "decimals": 18
-    },
-    {
-      "chainId": 2632500,
-      "address": "0xA045792D58CfD6F710d2D2EF20D0C58Cc6FbB3F2",
-      "name": "BigMoney",
-      "symbol": "BIGM",
-      "decimals": 18
     }
   ]
 }
