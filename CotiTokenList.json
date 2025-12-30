@@ -1,8 +1,9 @@
 {
   "name": "coti-mainnet-token-list",
+  "logoURI": "https://assets.coingecko.com/coins/images/2962/standard/Coti.png",
   "timestamp": "2025-12-26T00:00:00Z",
   "version": { "major": 1, "minor": 0, "patch": 0 },
-  "keywords": ["coti","coti-mainnet","tokenlist"],
+  "keywords": ["coti","coti-mainnet","tokenlist", "privacy"],
   "tokens": [
     {
       "chainId": 1,
