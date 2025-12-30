@@ -59,6 +59,14 @@
       "symbol": "wADA",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/975/standard/cardano.png"
+    },
+    {
+      "chainId": 2632500,
+      "address": "0xfA6f73446b17A97a56e464256DA54AD43c2Cbc3E",
+      "name": "Tether USD (COTI Mainnet)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png"
     }
   ]
 }
